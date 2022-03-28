@@ -1,1 +1,0 @@
-![ACBs.png](../../static/ACBs.png)
