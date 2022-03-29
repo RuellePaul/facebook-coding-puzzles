@@ -1,6 +1,6 @@
 ## Director of Photography (Chapter 1)
 
-![ABCs](director_of_photography_chapter_one.png)
+![Director of Photography (Chapter 1)](director_of_photography_chapter_one.png)
 
 ```python
 import itertools
